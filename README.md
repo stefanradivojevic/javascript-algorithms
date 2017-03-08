@@ -1,4 +1,4 @@
-# javascript-algorithms
+# javascript-algorithms [02/2017]
 
 Examples of my favorite and best JavaScript algorithms.
 
